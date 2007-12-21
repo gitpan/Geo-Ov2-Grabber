@@ -1,0 +1,20 @@
+# http://module-build.sourceforge.net/META-spec.html
+#XXXXXXX This is a prototype!!!  It will change in the future!!! XXXXX#
+name:         Geo-Ov2-Grabber
+version:      0.01_01
+version_from: lib/Geo/Ov2/Grabber.pm
+installdirs:  site
+requires:
+    Config::General:               0
+    File::Basename:                0
+    File::Copy:                    0
+    Geo::Ov2:                      0
+    Getopt::Long:                  0
+    locale:                        0
+    Locale::TextDomain:            0
+    Pod::Usage:                    0
+    POSIX:                         0
+    Test::More:                    0
+
+distribution_type: module
+generated_by: ExtUtils::MakeMaker version 6.30
