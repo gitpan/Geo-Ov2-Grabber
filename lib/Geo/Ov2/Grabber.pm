@@ -13,11 +13,11 @@ Geo::Ov2::Grabber - The great new Geo::Ov2::Grabber!
 
 =head1 VERSION
 
-Version 0.01_01
+Version 0.01_02
 
 =cut
 
-our $VERSION = '0.01_01';
+our $VERSION = '0.01_02';
 
 our %grabber_modules;
 our $OVG = undef;
